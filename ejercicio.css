@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
+.p-large {
+    font-size: 22px; 
+}
+
+.p-green {
+    color: green;
+    background-color: pink;
+}
