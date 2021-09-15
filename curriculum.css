@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+#datos u,#CAT u{
+    color: rgb(5, 5, 228);
+}
+
+#edu u,#OT u{
+    color:rgb(5, 207, 5);
+}
+
+h3{
+    background-color: gray;
+    color: rgb(231, 6, 6);
+}
+h4{
+    background-color: rgb(117, 117, 117);
+    color: rgb(148, 13, 189);
+}
+
+div{
+    background-color: rgb(197, 192, 192);
+}
+.clarito{
+    background-color: rgb(241, 236, 236);
+}
