@@ -1,0 +1,29 @@
+.title{
+    font-family:'Glory', sans-serif;
+    font-weight: 200;
+    color: royalblue;
+}
+
+.font {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: rebeccapurple;
+}
+
+.font1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: seagreen;
+}
+
+.font2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    color: red;
+}
+
+.font3{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 400;
+    color: slategray;
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(207, 203, 203);
+}
+
+.title{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    background-color: gray;
+    color: white;
+}
+
+.primertxt {
+    color: rgb(238, 19, 12);
+  }
+
+  .seguntxt {
+    background-color: white;
+    color: black;
+  }
+
+ div> p > img {
+      float: left;
+      margin-right: 20px;
+  }
+
+div > p {
+    width: 80%;
+    margin: 0 auto;
+} 
+
+h3 {
+    width: 90%;
+    margin-left: 50px;
+}
+
+.clear-fix {
+    clear: both;
+    float: none;
+    border: 5px solid red;
+    height: 50px;
+    width: 100%;
+}
